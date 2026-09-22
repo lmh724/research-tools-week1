@@ -1,0 +1,3 @@
+Git helps manage code.
+Git records changes in code.
+Codex helps write and review code.
